@@ -77,7 +77,7 @@ void connection()
         }
         else
         {
-            cout << "Table created successfully.\n";
+            //cout << "Table created successfully.\n";
         }
     }
     else
